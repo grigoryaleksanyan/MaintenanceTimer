@@ -1,0 +1,29 @@
+.warning {
+  text-align: center;
+  font-size: 25px;
+  margin-top: 170px;
+}
+.date {
+  color: yellowgreen;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.timer-item {
+  min-width: 70px;
+  margin: 0 10px;
+}
+
+.timer-text {
+  font-size: 16px;
+}
+
+.timer-number,
+.separator {
+  font-weight: bold;
+  font-size: 35px;
+}
